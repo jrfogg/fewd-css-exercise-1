@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+
+h1 {
+  color: red;
+}
+
+#list-item-1 {
+  color: green;
+}
+
+.date {
+  font-weight: bold;
+  font-style: italic;
+}
+
+ul > #font-color {
+  color: pink;
+}
+
+li blockquote {
+  background-color: gray;
+}
+
+body {
+  font-family: Varela Round, arial, sans-serif;
+  line-height: 30px;
+}
